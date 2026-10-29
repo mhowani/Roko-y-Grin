@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /Roko-y-Grin/historias/_plantilla/
+
+Sitemap: https://mhowani.github.io/Roko-y-Grin/sitemap.xml
